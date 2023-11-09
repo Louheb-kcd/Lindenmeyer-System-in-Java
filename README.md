@@ -1,1 +1,1 @@
-# Lindenmeyer-System-in-Java
+# Lindenmeyer-System-Generator-in-Java
